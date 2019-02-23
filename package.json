@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An Express app that allows one user to find a match with another user, based on the answers given in a survey. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesefairbanks/friendfinder.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Reese Fairbanks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reesefairbanks/friendfinder/issues"
+  },
+  "homepage": "https://github.com/reesefairbanks/friendfinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
