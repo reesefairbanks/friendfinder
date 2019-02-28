@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/reesefairbanks/friendfinder.git"
   },
+  "engines": {
+    "node": "11.1.0"
+  },
   "keywords": [
-    "Express"
+    "Express", "Heroku", "Node"
   ],
   "author": "Reese Fairbanks",
   "license": "MIT",
